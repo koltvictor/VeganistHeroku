@@ -8,7 +8,7 @@ User.create!(name: "Kolt", email: "kolts.email@gmail.com", username: "kolt")
 
 Recipe.create!(
     name: "Tacos",
-    image: "https://i.imgur.com/XsGe1I9.jpg",
+    image: "/Vegan-Tacos-15.jpg",
     ingredients: "Beyond Meat or Impossible ground beef, shallot, garlic,vegetable stock, jalapenos, cilantro, pepperjack cheese, frozen or canned corn, avocado, red cabbage, lime, salt, olive oil, Siete Taco Seasoning (I use spicy), diced tomatoes, cashew yogurt, salsa verde of your choice",
     instructions: "4. dice shallot and garlic.  2. add a tablespoon or so of olice oil and drop ground beef into sauce pan and brown  3. after a minute or two, add shallot and garlic to pan", user_id: 1
 )
